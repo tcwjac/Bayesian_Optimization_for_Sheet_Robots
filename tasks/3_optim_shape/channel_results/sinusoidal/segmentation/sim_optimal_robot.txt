@@ -1,0 +1,19 @@
+Robot length: 9.0mm             # Originally 8.966452370342116
+Robot thickness: 0.22mm         # Originally 0.2225454297491371
+Robot n waveform: 0.79 cycle     # Originally 0.7945177635365849
+
+Robot width: 3mm
+
+B field: 0.05T
+B frequency: 4Hz
+
+Material: PDMS 1:1
+
+Time;
+Max curvature: 10.480582743113972
+Max width: 2.7712674495373513
+Min Width: 11.749991256693184
+Max curvature change: 3.343623701148851
+Max width change: 3.9619245569033477
+
+Total time: 32.3073897073967

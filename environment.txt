@@ -1,0 +1,34 @@
+# Update your Conda to the latest version. 25.9.1 is only an example
+conda install conda=25.9.1
+conda create -n bo_sheet python=3.10.18
+
+# magneto_pyelastica requires python 3.8 <= < 3.11
+pip3 install ipython ipykernel line_profiler pyelastica==0.3.2 matplotlib==3.10.3 magneto_pyelastica shapely viztracer joblib ax-platform "ax-platform[notebook]" py-spy openpyxl colorama opencv-python==4.7.0.72 scikit-image
+
+# Go to where elastica is installed in your Conda environment. Then copy and paste the following import
+# statement in the __init__.py to replace the elastica.timestepper
+
+from elastica.timestepper import (
+    integrate,
+    PositionVerlet,
+    PEFRL,
+    RungeKutta4,
+    EulerForward,
+    extend_stepper_interface,
+    check_robot_touch_end_line,
+    get_end_closed_lines,
+    FastCollisionDetector,
+    integrate_polygon_optimized,
+    mag_den_stepping,
+)
+
+# Then go into the timestepper __init__.py by Ctrl + left clicking the timestepper in VSCode or whatever text editor/IDE
+# Replace everything in that __init__.py with the Bayesian_Optimization_for_Sheet_Robots/timestepper directory without __pycache__
+# so that the custom integrate_polygon_optimized is placed within the elastica package on your Conda environment.
+
+# In terminal, cd to <some_user_path/Documents/GitHub/>/Bayesian_Optimization_for_Sheet_Robots
+# Then install the internal library
+pip3 install -e .
+
+# Re-open Visual Studio Code or the IDE of your choice to refresh Pylance.
+# Now you can execute the .ipynb files inside Bayesian_Optimization_for_Sheet_Robots/code/

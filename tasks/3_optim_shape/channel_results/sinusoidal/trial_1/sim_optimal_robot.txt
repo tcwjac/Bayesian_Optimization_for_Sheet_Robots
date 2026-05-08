@@ -1,0 +1,58 @@
+We have multiple candidates for this one.
+
+From result.txt, it'd appear trial 15
+robot_length: 13.553840390859813
+robot_thickness: 0.15
+robot_n_waveform: 1.5096963951186708
+to be the best with averageScore: 3.685461781219822, sem: 0.02698787233803113
+
+However, trial 13, 16 to 19 with slight perturbation in the parameters have noticeable averageScore differences.
+So trial 15 design isn't robust against some variation in manufacturing and should be avoided.
+
+
+Trial 21
+robot_length: 10.555926898571672
+robot_thickness: 0.15
+robot_n_waveform: 0.8453375243769514
+averageScore: 3.5778909266314276, sem: 0.01951555854052104
+
+and Trial 22
+Robot length: 9.378254169630571
+Robot thickness: 0.1806458666508359
+Robot n waveform: 0.8204114367785406
+Robot material: 13_9_2025_pdms_1_1
+averageScore: 3.565337724772843, sem: 0.03271146148576384
+
+have very similar averageScore.
+
+Let's try Trial 21,
+
+Robot length: 10.55mm            # Originally 10.555926898571672mm
+Robot thickness: 0.15mm
+Robot n waveform: 0.85 cycle     # Originally 0.8453375243769514
+
+Robot width: 3mm
+
+B field: 0.05T
+B frequency: 4Hz
+
+Material: PDMS 1:1
+
+Travel time: 23724.800909382837ms
+Speed: 2.528999093782524mm/s
+
+Trail 22,
+
+Robot length: 9.38mm            # Originally 9.378254169630571mm
+Robot thickness: 0.18mm
+Robot n waveform: 0.82 cycle     # Originally 0.8204114367785406
+
+Robot width: 3mm
+
+B field: 0.05T
+B frequency: 4Hz
+
+Material: PDMS 1:1
+
+Travel time: 22753.739863259914ms
+Speed: 2.6369291536500774mm/s

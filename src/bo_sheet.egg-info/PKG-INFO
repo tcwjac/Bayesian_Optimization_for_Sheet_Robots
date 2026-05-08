@@ -1,0 +1,4 @@
+Metadata-Version: 2.4
+Name: bo_sheet
+Version: 0.1.0
+Summary: Internal library for Bayesian Optimization for Sheet Robots. See environment.txt to manually install the dependencies

@@ -1,0 +1,56 @@
+Randomized specification for Robot 0:
+Length: 5.0
+Thickness: 0.1
+n_waveform: 0.5
+mag_dir: cw
+init_mag_dir_offset: 0.0
+==========================================================
+Randomized specification for Robot 1:
+Length: 8.13
+Thickness: 0.15
+n_waveform: 0.73
+mag_dir: cw
+init_mag_dir_offset: 92.5
+==========================================================
+Randomized specification for Robot 2:
+Length: 5.87
+Thickness: 0.19
+n_waveform: 1.92
+mag_dir: cw
+init_mag_dir_offset: 44.2
+==========================================================
+Randomized specification for Robot 3:
+Length: 9.10
+Thickness: 0.23
+n_waveform: 1.34
+mag_dir: ccw
+init_mag_dir_offset: 167.9
+==========================================================
+Randomized specification for Robot 4:
+Length: 6.54
+Thickness: 0.13
+n_waveform: 0.98
+mag_dir: ccw
+init_mag_dir_offset: 135.2
+==========================================================
+Randomized specification for Robot 5:
+Length: 7.31
+Thickness: 0.21
+n_waveform: 2.22
+mag_dir: cw
+init_mag_dir_offset: 108.0
+==========================================================
+Randomized specification for Robot 6:
+Length: 9.67
+Thickness: 0.26
+n_waveform: 1.65
+mag_dir: ccw
+init_mag_dir_offset: 29.7
+==========================================================
+Randomized specification for Robot 7:
+Length: 10.0
+Thickness: 0.3
+n_waveform: 2.5
+mag_dir: ccw
+init_mag_dir_offset: 180.0
+==========================================================

@@ -1,0 +1,86 @@
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 5.342383780302135, 'robot_thickness': 0.3, 'robot_n_waveform': 1.6971976635325416, 'mag_dir': 'ccw', 'init_mag_dir_offset': 180.0, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (22.432379146172202, nan)}
+Corresponding trial index: 50
+
+Friction variation level: 0.5
+Number of SOBOL: 36
+Number of BO steps: 60
+---------------------------------------------------------------------------
+
+From SingleTaskGP (default BayesOpt setup by Ax) prediction.
+Best parameters:
+{'robot_length': 5.0, 'robot_thickness': 0.3, 'robot_n_waveform': 0.5, 'mag_dir': 'ccw', 'init_mag_dir_offset': 180.0, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (2.686026106371062, 0.5112921298640427)}
+Corresponding trial index: 88
+
+Friction variation level: 0.5
+Number of SOBOL: 36
+Number of BO steps: 60
+Time taken to execute all BO: 136259.40604782104s
+
+---------------------------------------------------------------------------
+
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 6.074860915541649, 'robot_thickness': 0.21150723695755003, 'robot_n_waveform': 2.3047064542770386, 'mag_dir': 'cw', 'init_mag_dir_offset': 145.46666622161865, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (0.0, nan)}
+Corresponding trial index: 0
+
+Friction variation level: 0.5
+Number of SOBOL: 1
+Number of BO steps: 1
+---------------------------------------------------------------------------
+
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 7.60717898607254, 'robot_thickness': 0.17753031253814697, 'robot_n_waveform': 2.257705330848694, 'mag_dir': 'ccw', 'init_mag_dir_offset': 11.142824292182922, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (11.0, nan)}
+Corresponding trial index: 0
+
+Friction variation level: 0.5
+Number of SOBOL: 1
+Number of BO steps: 1
+---------------------------------------------------------------------------
+
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 9.457512070275078, 'robot_thickness': 0.3, 'robot_n_waveform': 2.4539871988325648, 'mag_dir': 'ccw', 'init_mag_dir_offset': 171.1712235209447, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (7.0, nan)}
+Corresponding trial index: 1
+
+Friction variation level: 0.5
+Number of SOBOL: 1
+Number of BO steps: 1
+---------------------------------------------------------------------------
+
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 5.0, 'robot_thickness': 0.3, 'robot_n_waveform': 0.5, 'mag_dir': 'cw', 'init_mag_dir_offset': 132.34841401938388, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (14.0, nan)}
+Corresponding trial index: 1
+
+Friction variation level: 0.5
+Number of SOBOL: 1
+Number of BO steps: 1
+---------------------------------------------------------------------------
+
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 9.332736235089342, 'robot_thickness': 0.3, 'robot_n_waveform': 0.5010122018670128, 'mag_dir': 'ccw', 'init_mag_dir_offset': 164.54674107757242, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'score': (14.0, nan)}
+Corresponding trial index: 1
+
+Friction variation level: 0.5
+Number of SOBOL: 1
+Number of BO steps: 1
+---------------------------------------------------------------------------
+

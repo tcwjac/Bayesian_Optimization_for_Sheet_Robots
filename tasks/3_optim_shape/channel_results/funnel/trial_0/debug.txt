@@ -1,0 +1,196 @@
+objective:
+{'averageScore': 0.669971508323045, 'sem': 0.005431969043115678}
+Robot length: 18.840582752227782
+Robot thickness: 0.21978940218687057
+Robot n waveform: 1.2343054562807083
+Robot material: 13_9_2025_pdms_1_1
+Trial 0. Jupyter: {'averageScore': 0.669971508323045, 'sem': 0.005431969043115678}
+objective:
+{'averageScore': 6.804874473720367e-05, 'sem': 0.00024022346612922787}
+Robot length: 12.869719725102186
+Robot thickness: 0.32075586458668115
+Robot n waveform: 2.69437962397933
+Robot material: 13_9_2025_pdms_1_1
+Trial 1. Jupyter: {'averageScore': 6.804874473720367e-05, 'sem': 0.00024022346612922787}
+objective:
+{'averageScore': 0.4890105608142992, 'sem': 0.02490533431523047}
+Robot length: 9.55858164988458
+Robot thickness: 0.21090271496213972
+Robot n waveform: 1.643141665495932
+Robot material: 13_9_2025_pdms_1_1
+Trial 2. Jupyter: {'averageScore': 0.4890105608142992, 'sem': 0.02490533431523047}
+objective:
+{'averageScore': 0.012029097592974596, 'sem': 0.0017445346142646995}
+Robot length: 17.04818699248135
+Robot thickness: 0.36088110934942963
+Robot n waveform: 3.1765267439186573
+Robot material: 13_9_2025_pdms_1_1
+Trial 3. Jupyter: {'averageScore': 0.012029097592974596, 'sem': 0.0017445346142646995}
+objective:
+{'averageScore': 0.8224782557053479, 'sem': 0.0363874382781025}
+Robot length: 15.50117025785148
+Robot thickness: 0.17195354900322854
+Robot n waveform: 2.2447911826893687
+Robot material: 13_9_2025_pdms_1_1
+Trial 4. Jupyter: {'averageScore': 0.8224782557053479, 'sem': 0.0363874382781025}
+objective:
+{'averageScore': 0.550179290032441, 'sem': 0.016132501058483868}
+Robot length: 10.851320061460136
+Robot thickness: 0.39984172033146026
+Robot n waveform: 0.6996926907449961
+Robot material: 13_9_2025_pdms_1_1
+Trial 5. Jupyter: {'averageScore': 0.550179290032441, 'sem': 0.016132501058483868}
+objective:
+{'averageScore': 0.27434710834875214, 'sem': 0.08844756435474778}
+Robot length: 14.332372041046618
+Robot thickness: 0.2587090086657554
+Robot n waveform: 2.888010318391025
+Robot material: 13_9_2025_pdms_1_1
+Trial 6. Jupyter: {'averageScore': 0.27434710834875214, 'sem': 0.08844756435474778}
+objective:
+{'averageScore': 0.6294350454818679, 'sem': 0.013667896720094943}
+Robot length: 17.80095940306783
+Robot thickness: 0.28182481564581396
+Robot n waveform: 1.41622263379395
+Robot material: 13_9_2025_pdms_1_1
+Trial 7. Jupyter: {'averageScore': 0.6294350454818679, 'sem': 0.013667896720094943}
+objective:
+{'averageScore': 0.6019085854403846, 'sem': 0.026692534740791547}
+Robot length: 18.09469310455024
+Robot thickness: 0.1816260140389204
+Robot n waveform: 3.0173342218622565
+Robot material: 13_9_2025_pdms_1_1
+Trial 8. Jupyter: {'averageScore': 0.6019085854403846, 'sem': 0.026692534740791547}
+objective:
+{'averageScore': 0.6818008811417005, 'sem': 0.04538929308032945}
+Robot length: 13.278723189607263
+Robot thickness: 0.3470784415025264
+Robot n waveform: 1.4753028135746717
+Robot material: 13_9_2025_pdms_1_1
+Trial 9. Jupyter: {'averageScore': 0.6818008811417005, 'sem': 0.04538929308032945}
+objective:
+{'averageScore': 0.12364729381397743, 'sem': 0.04414528343153088}
+Robot length: 11.823165614902972
+Robot thickness: 0.23719262899830937
+Robot n waveform: 2.1167031740769744
+Robot material: 13_9_2025_pdms_1_1
+Trial 10. Jupyter: {'averageScore': 0.12364729381397743, 'sem': 0.04414528343153088}
+objective:
+{'averageScore': 0.4974147700691844, 'sem': 0.008698443295118168}
+Robot length: 15.120398444682358
+Robot thickness: 0.32275038338266315
+Robot n waveform: 0.6419400926679373
+Robot material: 13_9_2025_pdms_1_1
+Trial 11. Jupyter: {'averageScore': 0.4974147700691844, 'sem': 0.008698443295118168}
+objective:
+{'averageScore': 0.7812371398877818, 'sem': 0.005504151796699822}
+Robot length: 16.078913080692292
+Robot thickness: 0.2607738604769111
+Robot n waveform: 1.9602059395983815
+Robot material: 13_9_2025_pdms_1_1
+Trial 12. Jupyter: {'averageScore': 0.7812371398877818, 'sem': 0.005504151796699822}
+objective:
+{'averageScore': 0.001589468264083042, 'sem': 0.001777940617006826}
+Robot length: 9.936690371483564
+Robot thickness: 0.29918059506453576
+Robot n waveform: 3.4232556521892548
+Robot material: 13_9_2025_pdms_1_1
+Trial 13. Jupyter: {'averageScore': 0.001589468264083042, 'sem': 0.001777940617006826}
+objective:
+{'averageScore': 0.6421177425591195, 'sem': 0.017432151048120757}
+Robot length: 12.573322891816495
+Robot thickness: 0.15807625567540526
+Robot n waveform: 0.9189348267391324
+Robot material: 13_9_2025_pdms_1_1
+Trial 14. Jupyter: {'averageScore': 0.6421177425591195, 'sem': 0.017432151048120757}
+objective:
+{'averageScore': 0.010933806228314408, 'sem': 0.002642855992231773}
+Robot length: 19.896803366020322
+Robot thickness: 0.37061675670556726
+Robot n waveform: 2.4492529556155205
+Robot material: 13_9_2025_pdms_1_1
+Trial 15. Jupyter: {'averageScore': 0.010933806228314408, 'sem': 0.002642855992231773}
+objective:
+{'averageScore': 0.8326502298386201, 'sem': 0.004831968063773211}
+Robot length: 16.828466783345572
+Robot thickness: 0.15
+Robot n waveform: 1.9334583518255013
+Robot material: 13_9_2025_pdms_1_1
+Trial 16. Jupyter: {'averageScore': 0.8326502298386201, 'sem': 0.004831968063773211}
+objective:
+{'averageScore': 0.7432634888549873, 'sem': 0.011386935214024216}
+Robot length: 15.71107720967506
+Robot thickness: 0.19542859163737866
+Robot n waveform: 1.6169132794041619
+Robot material: 13_9_2025_pdms_1_1
+Trial 17. Jupyter: {'averageScore': 0.7432634888549873, 'sem': 0.011386935214024216}
+objective:
+{'averageScore': 0.8035477410919057, 'sem': 0.01196909184425864}
+Robot length: 16.636096473330753
+Robot thickness: 0.15
+Robot n waveform: 2.3606585953816275
+Robot material: 13_9_2025_pdms_1_1
+Trial 18. Jupyter: {'averageScore': 0.8035477410919057, 'sem': 0.01196909184425864}
+objective:
+{'averageScore': 0.7278879358799052, 'sem': 0.025611667105510945}
+Robot length: 16.82183929434172
+Robot thickness: 0.19597655843250783
+Robot n waveform: 2.0981908290206923
+Robot material: 13_9_2025_pdms_1_1
+Trial 19. Jupyter: {'averageScore': 0.7278879358799052, 'sem': 0.025611667105510945}
+objective:
+{'averageScore': 0.7162713843392424, 'sem': 0.018010464349959284}
+Robot length: 9.2
+Robot thickness: 0.15
+Robot n waveform: 0.6132748366576058
+Robot material: 13_9_2025_pdms_1_1
+Trial 20. Jupyter: {'averageScore': 0.7162713843392424, 'sem': 0.018010464349959284}
+objective:
+{'averageScore': 0.618227116061134, 'sem': 0.01103177363355341}
+Robot length: 15.168146501070733
+Robot thickness: 0.4
+Robot n waveform: 1.5480860031343178
+Robot material: 13_9_2025_pdms_1_1
+Trial 21. Jupyter: {'averageScore': 0.618227116061134, 'sem': 0.01103177363355341}
+objective:
+{'averageScore': 0.44498655362211537, 'sem': 0.020319294774810537}
+Robot length: 20.0
+Robot thickness: 0.15
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 22. Jupyter: {'averageScore': 0.44498655362211537, 'sem': 0.020319294774810537}
+objective:
+{'averageScore': 0.8191589336920936, 'sem': 0.02676445106299099}
+Robot length: 15.96531146083595
+Robot thickness: 0.15
+Robot n waveform: 2.106359977606932
+Robot material: 13_9_2025_pdms_1_1
+Trial 23. Jupyter: {'averageScore': 0.8191589336920936, 'sem': 0.02676445106299099}
+objective:
+{'averageScore': 0.5633657164876563, 'sem': 0.01881759397296375}
+Robot length: 10.936173873167046
+Robot thickness: 0.22381992769463305
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 24. Jupyter: {'averageScore': 0.5633657164876563, 'sem': 0.01881759397296375}
+objective:
+{'averageScore': 0.9489758923998787, 'sem': 0.01999577643739446}
+Robot length: 9.2
+Robot thickness: 0.15
+Robot n waveform: 1.04997866494912
+Robot material: 13_9_2025_pdms_1_1
+Trial 25. Jupyter: {'averageScore': 0.9489758923998787, 'sem': 0.01999577643739446}
+objective:
+{'averageScore': 0.8451048262548908, 'sem': 0.015220976060612987}
+Robot length: 9.2
+Robot thickness: 0.22448600642832747
+Robot n waveform: 1.038613687724069
+Robot material: 13_9_2025_pdms_1_1
+Trial 26. Jupyter: {'averageScore': 0.8451048262548908, 'sem': 0.015220976060612987}
+objective:
+{'averageScore': 0.7825731536803858, 'sem': 0.010225410228235365}
+Robot length: 9.873832232610932
+Robot thickness: 0.15
+Robot n waveform: 1.0759921938891444
+Robot material: 13_9_2025_pdms_1_1
+Trial 27. Jupyter: {'averageScore': 0.7825731536803858, 'sem': 0.010225410228235365}

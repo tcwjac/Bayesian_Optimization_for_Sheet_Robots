@@ -1,0 +1,13 @@
+Robot length: 9.25mm            # Originally 9.2mm
+Robot thickness: 0.15mm
+Robot n waveform: 1.05 cycle    # Originally 1.04997866494912
+
+Robot width: 3mm
+
+B field: 0.05T
+B frequency: 4Hz
+
+Material: PDMS 1:1
+
+Travel time: 44381.58435059388ms
+Speed: 0.9012747198031191mm/s

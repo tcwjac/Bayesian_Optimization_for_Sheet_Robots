@@ -1,0 +1,374 @@
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.628319904208183
+Robot thickness: 0.12332498282194138
+Robot n waveform: 1.1584673523902893
+Robot material: 13_9_2025_pdms_1_1
+Trial 0. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.44591203238815
+Robot thickness: 0.28106572236865757
+Robot n waveform: 1.715093806385994
+Robot material: 13_9_2025_pdms_1_1
+Trial 1. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.719619810581207
+Robot thickness: 0.1812053147703409
+Robot n waveform: 0.8431438989937305
+Robot material: 13_9_2025_pdms_1_1
+Trial 2. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.460573790594935
+Robot thickness: 0.22337006852030755
+Robot n waveform: 2.282615030184388
+Robot material: 13_9_2025_pdms_1_1
+Trial 3. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.314944191835821
+Robot thickness: 0.1625348564237356
+Robot n waveform: 1.9512967094779015
+Robot material: 13_9_2025_pdms_1_1
+Trial 4. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.5166160101071
+Robot thickness: 0.23287304639816284
+Robot n waveform: 1.4220140185207129
+Robot material: 13_9_2025_pdms_1_1
+Trial 5. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.317126972600818
+Robot thickness: 0.13291341233998538
+Robot n waveform: 2.0498233009129763
+Robot material: 13_9_2025_pdms_1_1
+Trial 6. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 20 concurrent simulations
+Average time: 2.220753676135062s
+
+Robot length: 5.595971569418907
+Robot thickness: 0.26267602276057
+Robot n waveform: 0.5751959346234798
+Robot material: 13_9_2025_pdms_1_1
+Trial 7. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.196370906196535
+Robot thickness: 0.1933577900752425
+Robot n waveform: 2.1786331348121166
+Robot material: 13_9_2025_pdms_1_1
+Trial 8. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.936093435622752
+Robot thickness: 0.21047296468168497
+Robot n waveform: 0.6962254364043474
+Robot material: 13_9_2025_pdms_1_1
+Trial 9. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.897306000813842
+Robot thickness: 0.11041567102074623
+Robot n waveform: 1.8240347262471914
+Robot material: 13_9_2025_pdms_1_1
+Trial 10. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.716110445559025
+Robot thickness: 0.2932059902697801
+Robot n waveform: 1.3025323525071144
+Robot material: 13_9_2025_pdms_1_1
+Trial 11. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.059736312367022
+Robot thickness: 0.1458471491932869
+Robot n waveform: 0.9634338412433863
+Robot material: 13_9_2025_pdms_1_1
+Trial 12. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.339812359772623
+Robot thickness: 0.2505601566284895
+Robot n waveform: 2.4106852747499943
+Robot material: 13_9_2025_pdms_1_1
+Trial 13. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 7.0}
+Reliability: 7.0 successes out of 20 concurrent simulations
+Average time: 7.629671625759532s
+
+Robot length: 5.030573228205962
+Robot thickness: 0.299315985768144
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 14. In Jupyter {'score': 7.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.92630642335405
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 15. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 16. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 20 concurrent simulations
+Average time: 1.1389410891898346s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 17. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 3.0}
+Reliability: 3.0 successes out of 20 concurrent simulations
+Average time: 1.595695324850452s
+
+Robot length: 5.0
+Robot thickness: 0.2020569887582391
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 18. In Jupyter {'score': 3.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 19. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 6.0}
+Reliability: 6.0 successes out of 20 concurrent simulations
+Average time: 4.654313720166071s
+
+Robot length: 5.0
+Robot thickness: 0.2684272893360869
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 20. In Jupyter {'score': 6.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 3.0}
+Reliability: 3.0 successes out of 20 concurrent simulations
+Average time: 1.9779323881922248s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.7858067159414104
+Robot material: 13_9_2025_pdms_1_1
+Trial 21. In Jupyter {'score': 3.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 20 concurrent simulations
+Average time: 1.563617824012941s
+
+Robot length: 5.0
+Robot thickness: 0.24950238566709113
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 22. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 23. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.384381871636199
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 24. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 25. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.1530359027430261
+Robot material: 13_9_2025_pdms_1_1
+Trial 26. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 27. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 28. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.218849375019634
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 29. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Trial 30. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.2571636438666573
+Robot n waveform: 0.8845925670710509
+Robot material: 13_9_2025_pdms_1_1
+Trial 31. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.327766918294495
+Robot material: 13_9_2025_pdms_1_1
+Trial 32. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 20 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.17592805697988048
+Robot n waveform: 0.7397997962100921
+Robot material: 13_9_2025_pdms_1_1
+Trial 33. In Jupyter {'score': 0.0}

@@ -1,0 +1,96 @@
+==========================================================================================================================
+Width 0.8mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 8.66201768924078mm. Time Spent: 10.000000000383757s. Speed: 0.9625437249858743mm/s
+Distance Traveled: 8.461867233145616mm. Time Spent: 10.000000000383757s. Speed: 0.9403025367917243mm/s
+Distance Traveled: 8.46609177002429mm. Time Spent: 10.000000000383757s. Speed: 0.9407719772395993mm/s
+Distance Traveled: 8.929412949193642mm. Time Spent: 10.000000000383757s. Speed: 0.9922573135275242mm/s
+Distance Traveled: 10.15447013658438mm. Time Spent: 10.000000000383757s. Speed: 1.128388541929016mm/s
+Average Speed: 0.9928528188947476mm/s
+==========================================================================================================================
+Width 1.0mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 15.397739287272827mm. Time Spent: 10.000000000383757s. Speed: 1.7110329096120767mm/s
+Distance Traveled: 15.588405684311951mm. Time Spent: 10.000000000383757s. Speed: 1.7322202069162176mm/s
+Distance Traveled: 16.10930041671138mm. Time Spent: 10.000000000383757s. Speed: 1.7901032514950856mm/s
+Distance Traveled: 16.5480505387385mm. Time Spent: 10.000000000383757s. Speed: 1.8388581942745903mm/s
+Distance Traveled: 16.367123343091798mm. Time Spent: 10.000000000383757s. Speed: 1.8187531398753896mm/s
+Average Speed: 1.7781935404346718mm/s
+==========================================================================================================================
+Width 1.2mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 23.053582932919852mm. Time Spent: 10.000000000383757s. Speed: 2.561768214591166mm/s
+Distance Traveled: 23.331652330541527mm. Time Spent: 10.000000000383757s. Speed: 2.5926679383499622mm/s
+Distance Traveled: 23.030053183513168mm. Time Spent: 10.000000000383757s. Speed: 2.559153533641019mm/s
+Distance Traveled: 22.345343248473547mm. Time Spent: 10.000000000383757s. Speed: 2.48306695946714mm/s
+Distance Traveled: 22.67211319462206mm. Time Spent: 10.000000000383757s. Speed: 2.519378402419964mm/s
+Average Speed: 2.5432070096938504mm/s
+==========================================================================================================================
+Width 1.4mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 31.430147980809544mm. Time Spent: 10.000000000383757s. Speed: 3.492591772455422mm/s
+Distance Traveled: 33.359855085730736mm. Time Spent: 10.000000000383757s. Speed: 3.7070253526603767mm/s
+Distance Traveled: 33.34391042029685mm. Time Spent: 10.000000000383757s. Speed: 3.705253544034374mm/s
+Distance Traveled: 30.912701843107378mm. Time Spent: 10.000000000383757s. Speed: 3.4350919438090255mm/s
+Distance Traveled: 28.844527564487713mm. Time Spent: 10.000000000383757s. Speed: 3.205271566446459mm/s
+Average Speed: 3.5090468358811315mm/s
+==========================================================================================================================
+Width 1.6mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 41.02458695623502mm. Time Spent: 10.000000000383757s. Speed: 4.558748338035599mm/s
+Distance Traveled: 41.17433829516595mm. Time Spent: 10.000000000383757s. Speed: 4.575389058104232mm/s
+Distance Traveled: 40.51638922426355mm. Time Spent: 10.000000000383757s. Speed: 4.502276213928904mm/s
+Distance Traveled: 37.44895564893021mm. Time Spent: 10.000000000383757s. Speed: 4.1614157994534775mm/s
+Distance Traveled: 38.83181796977996mm. Time Spent: 10.000000000383757s. Speed: 4.31508270446415mm/s
+Average Speed: 4.422582422797273mm/s
+==========================================================================================================================
+Width 1.8mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 49.0774600732679mm. Time Spent: 10.000000000383757s. Speed: 5.453602489226651mm/s
+Distance Traveled: 50.102642052967084mm. Time Spent: 10.000000000383757s. Speed: 5.567523115682279mm/s
+Distance Traveled: 45.940695642078445mm. Time Spent: 10.000000000383757s. Speed: 5.1050378674122mm/s
+Distance Traveled: 45.943429836666034mm. Time Spent: 10.000000000383757s. Speed: 5.105341697528646mm/s
+Distance Traveled: 45.319586889722586mm. Time Spent: 10.000000000383757s. Speed: 5.036018805853768mm/s
+Average Speed: 5.253504795140708mm/s
+==========================================================================================================================
+Width 2.0mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 48.117215761651366mm. Time Spent: 10.000000000383757s. Speed: 5.346897888779121mm/s
+Distance Traveled: 49.516892860868786mm. Time Spent: 10.000000000383757s. Speed: 5.502433291406109mm/s
+Distance Traveled: 45.41427022152344mm. Time Spent: 10.000000000383757s. Speed: 5.046540239791598mm/s
+Distance Traveled: 39.91023039890835mm. Time Spent: 10.000000000383757s. Speed: 4.434918423328317mm/s
+Distance Traveled: 0.0mm. Time Spent: 0.0s. Speed: 0.0mm/s
+Average Speed: 4.066157968661029mm/s
+==========================================================================================================================
+Width 2.2mm
+Robot Length: 9.0mm
+Robot Width: 3.0mm
+Robot Thickness: 0.102mm
+Robot N Waveform: 1.0
+Distance Traveled: 19.91986907264802mm. Time Spent: 10.000000000383757s. Speed: 2.2135425793731094mm/s
+Distance Traveled: 22.087382783116627mm. Time Spent: 10.000000000383757s. Speed: 2.4544017874331283mm/s
+Distance Traveled: 14.446374487951903mm. Time Spent: 10.000000000383757s. Speed: 1.6053150214003908mm/s
+Distance Traveled: 22.228066552011104mm. Time Spent: 10.000000000383757s. Speed: 2.470034897848608mm/s
+Distance Traveled: 20.01228413422087mm. Time Spent: 10.000000000383757s. Speed: 2.223811957802297mm/s
+Average Speed: 2.1934212487715063mm/s

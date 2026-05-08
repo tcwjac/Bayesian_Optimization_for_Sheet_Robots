@@ -1,0 +1,40 @@
+Randomized specification for Robot 0:
+Length: 9.0
+Thickness: 0.15
+n_waveform: 0.5
+==========================================================
+Randomized specification for Robot 1:
+Length: 11.88
+Thickness: 0.15
+n_waveform: 2.51
+==========================================================
+Randomized specification for Robot 2:
+Length: 12.2
+Thickness: 0.19
+n_waveform: 1.92
+==========================================================
+Randomized specification for Robot 3:
+Length: 15.42
+Thickness: 0.23
+n_waveform: 1.34
+==========================================================
+Randomized specification for Robot 4:
+Length: 9.59
+Thickness: 0.27
+n_waveform: 0.7
+==========================================================
+Randomized specification for Robot 5:
+Length: 10.27
+Thickness: 0.24
+n_waveform: 1.39
+==========================================================
+Randomized specification for Robot 6:
+Length: 14.94
+Thickness: 0.16
+n_waveform: 2.2
+==========================================================
+Randomized specification for Robot 7:
+Length: 16.0
+Thickness: 0.3
+n_waveform: 3.0
+==========================================================

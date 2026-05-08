@@ -1,0 +1,13 @@
+[project]
+name = "bo_sheet"
+version = "0.1.0"
+description = "Internal library for Bayesian Optimization for Sheet Robots. See environment.txt to manually install the dependencies"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["bo_sheet"]

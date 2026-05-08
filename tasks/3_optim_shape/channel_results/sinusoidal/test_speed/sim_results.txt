@@ -1,0 +1,15 @@
+==========================================================================================================================
+Robot 0
+Robot Length: 9.38mm
+Robot Width: 3.0mm
+Robot Thickness: 0.18mm
+Robot N Waveform: 0.82
+Distance Traveled: 58.30591801122866mm. Time Spent: 25.407705037699202s. Speed: 2.3889272682830676mm/s
+Distance Traveled: 58.16071080398621mm. Time Spent: 23.632198793116437s. Speed: 2.569932630504018mm/s
+Distance Traveled: 58.20040398888811mm. Time Spent: 23.863008598912046s. Speed: 2.5457206524367804mm/s
+Distance Traveled: 58.245191397153235mm. Time Spent: 24.757421621370657s. Speed: 2.451761693322265mm/s
+Distance Traveled: 58.109628027108556mm. Time Spent: 23.398898187258286s. Speed: 2.594417800202818mm/s
+Distance Traveled: 57.97485457526597mm. Time Spent: 22.87507617410517s. Speed: 2.6503855694976814mm/s
+Distance Traveled: 58.07765955581384mm. Time Spent: 23.369817186528064s. Speed: 2.596365628998494mm/s
+Distance Traveled: 57.842094259249926mm. Time Spent: 23.977647801790624s. Speed: 2.517425744573503mm/s
+Average Speed: 2.5393671234773287mm/s

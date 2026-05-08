@@ -1,0 +1,1417 @@
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.184325397014618
+Robot thickness: 0.19508658051490785
+Robot n waveform: 1.1373561024665833
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 118.74415040016174
+Trial 0. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 7.0}
+Reliability: 7.0 successes out of 18 concurrent simulations
+Average time: 4.097634602055105s
+
+Robot length: 7.32777277007699
+Robot thickness: 0.2586560627445579
+Robot n waveform: 1.7413004133850336
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 71.13252958282828
+Trial 1. In Jupyter {'score': 7.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.637065023183823
+Robot thickness: 0.1363702392205596
+Robot n waveform: 0.6428831182420254
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 31.83900771662593
+Trial 2. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.779748967848718
+Robot thickness: 0.22201041281223297
+Robot n waveform: 2.2285140119493008
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 157.86194667220116
+Trial 3. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.772789975628257
+Robot thickness: 0.11740179304033518
+Robot n waveform: 1.8600797820836306
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 135.67150762304664
+Trial 4. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.4112022602930665
+Robot thickness: 0.2288320031017065
+Robot n waveform: 1.2607751060277224
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 9.315037652850151
+Trial 5. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.303482954390347
+Robot thickness: 0.15116591863334178
+Robot n waveform: 2.3577276207506657
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 48.77151444554329
+Trial 6. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.941436963155866
+Robot thickness: 0.29052619729191065
+Robot n waveform: 0.7713633514940739
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 96.0393032245338
+Trial 7. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 1.3752384903119268s
+
+Robot length: 7.6347669353708625
+Robot thickness: 0.13905084710568189
+Robot n waveform: 2.4247051756829023
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 82.01936384662986
+Trial 8. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.6163186356425285
+Robot thickness: 0.20262982770800592
+Robot n waveform: 0.9466153662651777
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 130.37934444844723
+Trial 9. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.1063441298902035
+Robot thickness: 0.1802859552204609
+Robot n waveform: 1.9180185571312904
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 169.49433848261833
+Trial 10. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 3.0}
+Reliability: 3.0 successes out of 18 concurrent simulations
+Average time: 1.0773854970921757s
+
+Robot length: 9.088658127002418
+Robot thickness: 0.2659348679706454
+Robot n waveform: 1.460683561861515
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 42.728534918278456
+Trial 11. In Jupyter {'score': 3.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.468177044764161
+Robot thickness: 0.17348612435162067
+Robot n waveform: 0.5771264489740133
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 20.179899260401726
+Trial 12. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 3.0}
+Reliability: 3.0 successes out of 18 concurrent simulations
+Average time: 2.9155852284316004s
+
+Robot length: 5.954764452762902
+Robot thickness: 0.28490750063210724
+Robot n waveform: 2.0520414765924215
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 147.28472700342536
+Trial 13. In Jupyter {'score': 3.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.018050909973681
+Robot thickness: 0.10720170158892871
+Robot n waveform: 1.0781969279050827
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 107.64972237870097
+Trial 14. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.505095420405269
+Robot thickness: 0.24655238427221773
+Robot n waveform: 1.5426129549741745
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 59.639068990945816
+Trial 15. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.6520239058882
+Robot thickness: 0.10493502467870713
+Robot n waveform: 0.8908759634941816
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 164.29514318704605
+Trial 16. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.165283379144967
+Robot thickness: 0.2413590481504798
+Robot n waveform: 2.4804140608757734
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 25.581538807600737
+Trial 17. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.121557862497866
+Robot thickness: 0.16360225137323142
+Robot n waveform: 1.3893172517418861
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 75.94675814732909
+Trial 18. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.63466408662498
+Robot thickness: 0.27795634269714353
+Robot n waveform: 1.9893543496727943
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 113.754196241498
+Trial 19. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.235300510190427
+Robot thickness: 0.1825282508507371
+Robot n waveform: 2.1058277543634176
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 91.2279955856502
+Trial 20. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 4.0}
+Reliability: 4.0 successes out of 18 concurrent simulations
+Average time: 1.9002744443796469s
+
+Robot length: 5.253900848329067
+Robot thickness: 0.2711037751287222
+Robot n waveform: 0.5233706887811422
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 53.75854969024658
+Trial 21. In Jupyter {'score': 4.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.783398147672415
+Robot thickness: 0.14891032092273235
+Robot n waveform: 1.6120261400938034
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 2.873770371079445
+Trial 22. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.800929727964103
+Robot thickness: 0.20955653879791497
+Robot n waveform: 1.0088142603635788
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 141.93704729899764
+Trial 23. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.107009818777442
+Robot thickness: 0.16101318877190351
+Robot n waveform: 1.6699341032654047
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 37.91710926219821
+Trial 24. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 1.1285041015689172s
+
+Robot length: 6.468749442137778
+Robot thickness: 0.29744070395827293
+Robot n waveform: 1.208691904321313
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 174.48159903287888
+Trial 25. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.556909893639386
+Robot thickness: 0.11963187828660012
+Robot n waveform: 2.1727746091783047
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 123.93785186111927
+Trial 26. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.91880159266293
+Robot thickness: 0.23398870062083005
+Robot n waveform: 0.6985920034348965
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 88.28502153977752
+Trial 27. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.945607925765216
+Robot thickness: 0.12649857588112354
+Robot n waveform: 1.3301882911473513
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 66.07214748859406
+Trial 28. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 1.0021183788510528s
+
+Robot length: 5.802007261663675
+Robot thickness: 0.21507146526128051
+Robot n waveform: 1.7906971145421267
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 101.39247877523303
+Trial 29. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.4731943011283875
+Robot thickness: 0.19283210951834917
+Robot n waveform: 0.82514962926507
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 152.09873026236892
+Trial 30. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.330661258660257
+Robot thickness: 0.25347493030130863
+Robot n waveform: 2.3039718605577946
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 15.19006110727787
+Trial 31. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 8.418361265212297
+Robot thickness: 0.13303874861449003
+Robot n waveform: 1.876326085999608
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 99.16756343096495
+Trial 32. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.404949287883937
+Robot thickness: 0.21946926787495613
+Robot n waveform: 1.4950399417430162
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 45.53339095786214
+Trial 33. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.870556957088411
+Robot thickness: 0.19800442978739738
+Robot n waveform: 2.405957330018282
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 6.066099498420954
+Trial 34. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.85760323703289
+Robot thickness: 0.262364256195724
+Robot n waveform: 0.9726682789623737
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 138.81058249622583
+Trial 35. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.606629329823286
+Robot thickness: 0.2619897133899997
+Robot n waveform: 2.054314064811083
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 80.55540449670517
+Trial 36. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.2853751505857028
+Robot n waveform: 1.2321334688757026
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 81.49987677475369
+Trial 37. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 6.0}
+Reliability: 6.0 successes out of 18 concurrent simulations
+Average time: 4.037205107460839s
+
+Robot length: 7.358858852372404
+Robot thickness: 0.26195068473224764
+Robot n waveform: 1.7262889612176648
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 69.95366253665186
+Trial 38. In Jupyter {'score': 6.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 5.0}
+Reliability: 5.0 successes out of 18 concurrent simulations
+Average time: 4.031167184399875s
+
+Robot length: 7.351261486937799
+Robot thickness: 0.2622711319477761
+Robot n waveform: 1.7557540566430936
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 71.72919198640787
+Trial 39. In Jupyter {'score': 5.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 1.1548431150366885s
+
+Robot length: 7.374306015398451
+Robot thickness: 0.2579827550878915
+Robot n waveform: 1.6594594738106687
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 66.25445258561024
+Trial 40. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.6351257460147092s
+
+Robot length: 9.312914407490993
+Robot thickness: 0.2553005374772913
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 62.15916908548931
+Trial 41. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 1.3013548614790318s
+
+Robot length: 7.312960065629048
+Robot thickness: 0.25711561962618174
+Robot n waveform: 1.732372669952928
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 70.69190632215114
+Trial 42. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 7.128904961323948
+Robot thickness: 0.3
+Robot n waveform: 1.190851215521927
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 53.298689454646556
+Trial 43. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.931857647852732
+Robot thickness: 0.2603776641427336
+Robot n waveform: 0.9004149398364455
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 44. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 1.84416341004635s
+
+Robot length: 7.850414994216468
+Robot thickness: 0.26065448115005174
+Robot n waveform: 1.7622572381003931
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 72.88828918361641
+Trial 45. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 0.9687801650487581s
+
+Robot length: 5.0
+Robot thickness: 0.25337633279605515
+Robot n waveform: 0.5714445739159357
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 62.87824117357692
+Trial 46. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.2573039382235725
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 65.46265996922749
+Trial 47. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 3.0}
+Reliability: 3.0 successes out of 18 concurrent simulations
+Average time: 1.7265918331585715s
+
+Robot length: 7.918295716323411
+Robot thickness: 0.3
+Robot n waveform: 1.6953362745992513
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 56.64357967294322
+Trial 48. In Jupyter {'score': 3.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 5.0}
+Reliability: 5.0 successes out of 18 concurrent simulations
+Average time: 2.4937363467037756s
+
+Robot length: 10.0
+Robot thickness: 0.28108635626837936
+Robot n waveform: 1.6762819386511556
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 49. In Jupyter {'score': 5.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 22.432379146172202}
+Reliability: 18.0 successes out of 18 concurrent simulations
+Average time: 15.567620853827796s
+
+Robot length: 5.342383780302135
+Robot thickness: 0.3
+Robot n waveform: 1.6971976635325416
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 50. In Jupyter {'score': 22.432379146172202}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 9.0}
+Reliability: 9.0 successes out of 18 concurrent simulations
+Average time: 9.358200340003275s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.6749285180765103
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 51. In Jupyter {'score': 9.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.747983709399143
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 52. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.575899883892234
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 53. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 54. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 2.058198462530282s
+
+Robot length: 5.455866106118949
+Robot thickness: 0.20570102153360934
+Robot n waveform: 1.6925672449769593
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 55. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.6980704882829751
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 56. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.7723557053263668
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 57. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 7.0}
+Reliability: 7.0 successes out of 18 concurrent simulations
+Average time: 3.2849918179136948s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.705381642286435
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 58. In Jupyter {'score': 7.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.5594251597574262
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 59. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.8923636126830186
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 60. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 61. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 62. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 63. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.2368551102270995s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 179.99999999999997
+Trial 64. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 65. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.8753583338940671
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 66. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 67. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 1.0754614965244749s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.5675549751059066
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 68. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.7036102891596534
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 69. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.1916170320965833
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 70. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 5.0}
+Reliability: 5.0 successes out of 18 concurrent simulations
+Average time: 1.3063250510300453s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 71. In Jupyter {'score': 5.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.8122331396390154s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 72. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 73. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.8483027984218721s
+
+Robot length: 6.095030292175988
+Robot thickness: 0.3
+Robot n waveform: 1.6911200766062378
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 74. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 75. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 76. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.7206239860745385
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 77. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 1.6089933897250495
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 78. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 79. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 80. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.5160216131357492s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 81. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 82. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 83. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 9.0}
+Reliability: 9.0 successes out of 18 concurrent simulations
+Average time: 7.015422174829699s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.4559341072346108
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 84. In Jupyter {'score': 9.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.4819476697619776
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 85. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 1.1398346880894055
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 86. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 1.7611653994509575
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 87. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 5.0}
+Reliability: 5.0 successes out of 18 concurrent simulations
+Average time: 2.0425375063059596s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 88. In Jupyter {'score': 5.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 89. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 4.0}
+Reliability: 4.0 successes out of 18 concurrent simulations
+Average time: 0.9610663976944603s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 90. In Jupyter {'score': 4.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.3
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 0.0
+Trial 91. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 1.0}
+Reliability: 1.0 successes out of 18 concurrent simulations
+Average time: 0.28258304768389164s
+
+Robot length: 10.0
+Robot thickness: 0.24949698011885652
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 92. In Jupyter {'score': 1.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 180.0
+Trial 93. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 5.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.0
+Trial 94. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 10.0
+Robot thickness: 0.1
+Robot n waveform: 2.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 180.0
+Trial 95. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 6.074860915541649
+Robot thickness: 0.21150723695755003
+Robot n waveform: 2.3047064542770386
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 145.46666622161865
+Trial 0. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 0.0}
+Reliability: 0.0 successes out of 18 concurrent simulations
+Average time: 0.0s
+
+Robot length: 9.848039724715381
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 4.161222138060226
+Trial 1. In Jupyter {'score': 0.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 14.0}
+Reliability: 14.0 successes out of 18 concurrent simulations
+Average time: 0.007978666666666598s
+
+Robot length: 6.016230955719948
+Robot thickness: 0.20477257966995238
+Robot n waveform: 2.4320203065872192
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 161.67394638061523
+Trial 0. In Jupyter {'score': 14.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 11.0}
+Reliability: 11.0 successes out of 18 concurrent simulations
+Average time: 0.004573823516012942s
+
+Robot length: 9.55969750881195
+Robot thickness: 0.21347771883010863
+Robot n waveform: 2.2187442779541016
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 7.9708318412303925
+Trial 0. In Jupyter {'score': 11.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 11.0}
+Reliability: 11.0 successes out of 18 concurrent simulations
+Average time: 0.005541888752220831s
+
+Robot length: 7.60717898607254
+Robot thickness: 0.17753031253814697
+Robot n waveform: 2.257705330848694
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 11.142824292182922
+Trial 0. In Jupyter {'score': 11.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 11.0}
+Reliability: 11.0 successes out of 18 concurrent simulations
+Average time: 0.005194020776083077s
+
+Robot length: 5.0031311821682785
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 168.1966913680941
+Trial 1. In Jupyter {'score': 11.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 15.0}
+Reliability: 15.0 successes out of 18 concurrent simulations
+Average time: 0.006389465742663599s
+
+Robot length: 6.665676385164261
+Robot thickness: 0.27354863882064817
+Robot n waveform: 0.7216349542140961
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 122.66754627227783
+Trial 0. In Jupyter {'score': 15.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 0.0007088888888888826s
+
+Robot length: 5.6408920884132385
+Robot thickness: 0.16415894627571107
+Robot n waveform: 0.6587877422571182
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 58.45201849937439
+Trial 0. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 7.0}
+Reliability: 7.0 successes out of 18 concurrent simulations
+Average time: 0.002124444444444432s
+
+Robot length: 9.457512070275078
+Robot thickness: 0.3
+Robot n waveform: 2.4539871988325648
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 171.1712235209447
+Trial 1. In Jupyter {'score': 7.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 0.0004102791453749287s
+
+Robot length: 8.313661515712738
+Robot thickness: 0.10093819145113231
+Robot n waveform: 2.330364942550659
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 22.50784009695053
+Trial 0. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 14.0}
+Reliability: 14.0 successes out of 18 concurrent simulations
+Average time: 0.007534747338046714s
+
+Robot length: 5.0
+Robot thickness: 0.3
+Robot n waveform: 0.5
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 132.34841401938388
+Trial 1. In Jupyter {'score': 14.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 2.0}
+Reliability: 2.0 successes out of 18 concurrent simulations
+Average time: 0.0003917816955947347s
+
+Robot length: 7.616607248783112
+Robot thickness: 0.11099684461951256
+Robot n waveform: 2.0508915185928345
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: cw
+Initial magnetization direction offset: 0.20544614642858505
+Trial 0. In Jupyter {'score': 2.0}
+==============================================================================
+In sim_wrapper_BO.py,
+objective: {'score': 14.0}
+Reliability: 14.0 successes out of 18 concurrent simulations
+Average time: 0.00631777777777771s
+
+Robot length: 9.332736235089342
+Robot thickness: 0.3
+Robot n waveform: 0.5010122018670128
+Robot material: 13_9_2025_pdms_1_1
+Magnetization direction: ccw
+Initial magnetization direction offset: 164.54674107757242
+Trial 1. In Jupyter {'score': 14.0}

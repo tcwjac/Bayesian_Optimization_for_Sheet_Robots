@@ -1,0 +1,14 @@
+Robot length: 5.35mm            # Originally 5.342383780302135
+Robot thickness: 0.3mm
+Robot n waveform: 1.70 cycle     # Originally 1.6971976635325416
+Magnetization direction: ccw
+Initial magnetization offset: 180 degree
+
+Robot width: 2mm
+
+B field: 0.05T
+B frequency: 4Hz
+
+Material: PDMS 1:1
+
+Reliability of going to the bottom artery:

@@ -1,0 +1,26 @@
+From the raw best simulated result.
+Best parameters:
+{'robot_length': 10.0, 'robot_thickness': 0.13746009276102172, 'robot_n_waveform': 1.0880825434256771, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'summedTime': (18.525686767925798, nan)}
+Corresponding trial index: 28
+
+Friction variation level: 0.5
+Number of SOBOL: 24
+Number of BO steps: 30
+---------------------------------------------------------------------------
+
+From SingleTaskGP (default BayesOpt setup by Ax) prediction.
+Best parameters:
+{'robot_length': 9.453852649336559, 'robot_thickness': 0.13921206671647277, 'robot_n_waveform': 1.1716654086337688, 'robot_material': '13_9_2025_pdms_1_1'}
+Best metrics (Mean, variance):
+{'summedTime': (18.598577351527485, 1.0247443425851595)}
+Corresponding trial index: 51
+
+Friction variation level: 0.5
+Number of SOBOL: 24
+Number of BO steps: 30
+Time taken to execute all BO: 60416.21141290665s
+
+---------------------------------------------------------------------------
+
