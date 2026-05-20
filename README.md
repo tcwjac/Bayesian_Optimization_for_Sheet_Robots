@@ -1,6 +1,6 @@
 ## A Data-driven Inverse Design Methodology for Magnetic Soft Millirobots Navigating in Confined Spaces
 
-Source code for the Advanced Science paper "A Data-driven Inverse Design Methodology for Magnetic Soft Millirobots Navigating in Confined Spaces". (Awaiting publication)
+Source code for the Advanced Science paper "A Data-driven Inverse Design Methodology for Magnetic Soft Millirobots Navigating in Confined Spaces". (http://doi.org/10.1002/advs.75714)
 
 Follow the environment.txt file for installation, and run only the .ipynb files.
 optim_shape.ipynb requires slight file path modification to run a desired channel.
